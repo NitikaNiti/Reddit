@@ -1,0 +1,15 @@
+com\reddit\reddit\model\Subreddit$SubredditBuilder.class
+com\reddit\reddit\model\User.class
+com\reddit\reddit\repository\UserRepository.class
+com\reddit\reddit\model\VoteType.class
+com\reddit\reddit\repository\SubredditRepository.class
+com\reddit\reddit\model\Subreddit.class
+com\reddit\reddit\model\Comment.class
+com\reddit\reddit\repository\CommentRepository.class
+com\reddit\reddit\repository\PostRepository.class
+com\reddit\reddit\repository\VoteRepository.class
+com\reddit\reddit\RedditApplication.class
+com\reddit\reddit\model\Post.class
+com\reddit\reddit\model\VerificationToken.class
+com\reddit\reddit\model\Post$PostBuilder.class
+com\reddit\reddit\model\Vote.class
